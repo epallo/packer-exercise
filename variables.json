@@ -1,0 +1,6 @@
+{
+	"variables": {
+	"project_id": "vivid-env-219509"
+	"base_image": "centos-7"
+	}
+}
